@@ -13,7 +13,6 @@ Jinja2==3.1.4
 MarkupSafe==3.0.2
 msgspec==0.18.6
 mysql-connector-python==9.1.0
-mysqlclient==2.2.6
 neo4j==5.26.0
 python-dotenv==1.0.1
 pytz==2024.2
